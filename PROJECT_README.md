@@ -1,5 +1,13 @@
 # Pirate Treasure Hunt - Deep Q-Learning Implementation
 
+**Author:** Dennis Selfinger  
+**Course:** CS 370  
+
+
+## Project Overview
+
+# Pirate Treasure Hunt - Deep Q-Learning Implementation
+
 ## Project Overview
 
 This project implements a deep Q-learning algorithm to train an intelligent pirate agent to find treasure in a maze environment. The pirate learns optimal pathfinding strategies through reinforcement learning, using exploration and exploitation to navigate from any starting position to the treasure location.
